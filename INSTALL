@@ -1,0 +1,9 @@
+Building Maxi
+
+See doc/readme-qt.rst for instructions on building Maxi QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Maxi.
+
+See doc/build-*.txt for instructions on building Maxid,
+the intended-for-services, no-graphical-interface, reference
+implementation of Maxi.
