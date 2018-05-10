@@ -1230,6 +1230,9 @@ void MapPort()
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
     {"24.21.56.209", "24.21.56.209"},
+    {"217.182.166.152", "217.182.166.152"},
+    {"108.61.117.78", "108.61.117.78"},
+    {"45.76.202.188", "45.76.202.188"},
     {"MAXI01.freeddns.org", "MAXI01.freeddns.org"},
     {"MAXI02.freeddns.org", "MAXI02.freeddns.org"},
     {"MAXI03.freeddns.org", "MAXI03.freeddns.org"},
